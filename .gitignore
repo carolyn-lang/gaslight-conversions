@@ -4,3 +4,5 @@ dist/
 .env.*
 !.env.example
 .netlify/
+!.netlify/state.json
+node_modules

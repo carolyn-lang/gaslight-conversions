@@ -45,6 +45,9 @@ Recent decisions affecting current work:
 - Stack: Astro 5.x + Tailwind CSS 4.x + Netlify — static site, no backend, Netlify Forms for contact
 - Payments: PayPal hosted buttons per product (keep as-is, verify API version before Phase 3)
 - No CMS: Carolyn manages updates directly in code; Content Collections as data layer
+- Staging URL: https://gaslight-conversions.netlify.app (connected to GitHub main branch, auto-deploys on push)
+- Netlify site name: gaslight-conversions (site ID: eece60d5-18c7-4056-82c3-ba967859795e)
+- GitHub repo: https://github.com/carolyn-lang/gaslight-conversions
 
 ### Pending Todos
 
