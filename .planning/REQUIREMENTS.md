@@ -9,7 +9,7 @@
 
 - [x] **MIGR-01**: Old site URLs are crawled and inventoried before any build work begins
 - [x] **MIGR-02**: All old site URLs have 301 redirects configured to new URL structure before DNS cutover
-- [ ] **MIGR-03**: Existing product photos and copy are audited for quality before design begins
+- [x] **MIGR-03**: Existing product photos and copy are audited for quality before design begins
 
 ### Products
 
@@ -61,7 +61,7 @@ Which phases cover which requirements. Updated during roadmap creation.
 |-------------|-------|--------|
 | MIGR-01 | Phase 1 | Complete |
 | MIGR-02 | Phase 1 | Complete |
-| MIGR-03 | Phase 1 | Pending |
+| MIGR-03 | Phase 1 | Complete |
 | PROD-01 | Phase 3 | Pending |
 | PROD-02 | Phase 3 | Pending |
 | PROD-03 | Phase 3 | Pending |

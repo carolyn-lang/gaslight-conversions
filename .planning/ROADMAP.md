@@ -32,8 +32,8 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans**: 2 plans
 
 Plans:
-- [ ] 01-01-PLAN.md — Astro 5.x project scaffold + Netlify staging site connected to GitHub
-- [ ] 01-02-PLAN.md — URL crawl inventory, content quality audit, and draft _redirects file
+- [x] 01-01-PLAN.md — Astro 5.x project scaffold + Netlify staging site connected to GitHub
+- [x] 01-02-PLAN.md — URL crawl inventory, content quality audit, and draft _redirects file
 
 ### Phase 2: Design System
 **Goal**: A complete design foundation exists that every subsequent page and component can inherit without rework
