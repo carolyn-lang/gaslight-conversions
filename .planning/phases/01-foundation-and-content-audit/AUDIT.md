@@ -13,7 +13,7 @@
 | Registry Expiry Date | 2026-12-20 |
 | Registrar | Amazon Registrar, Inc. |
 | Name Servers | NS-1270.AWSDNS-30.ORG, NS-1673.AWSDNS-17.CO.UK, NS-278.AWSDNS-34.COM, NS-712.AWSDNS-25.NET |
-| Auto-renew | [unknown until Carolyn checks registrar login] |
+| Auto-renew | [Yes] |
 | Creation Date | 1999-12-20 |
 | Last Updated | 2025-11-15 |
 
@@ -59,16 +59,16 @@ None found. All pages link only to the 10 known URLs above (plus `index.html` wh
 **Photos found:**
 | Image URL | File Size | Status |
 |-----------|-----------|--------|
-| `/images/gaslight_led_kit.gif` | 7,401 bytes | [Carolyn fills at checkpoint] |
-| `/images/gaslight_lv_kit.gif` | 6,348 bytes | [Carolyn fills at checkpoint] |
-| `/images/gaslight_hv_kit.gif` | 4,698 bytes | [Carolyn fills at checkpoint] |
+| `/images/gaslight_led_kit.gif` | 7,401 bytes | [usable] |
+| `/images/gaslight_lv_kit.gif` | 6,348 bytes | [usable] |
+| `/images/gaslight_hv_kit.gif` | 4,698 bytes | [usable] |
 
 **Copy excerpt:**
 > New LED Conversion Kit — New LED Bulbs feature 10 year life! High Power LED Fixture — 10 year lamp life, Constant current LED driver / photo electric control, and Low voltage transformer.
 > Low Voltage Conversion Kit — be directly wired into any 1/2" knockout, conveniently plugged into any outlet. Complete Kit includes: two bulb inverted fixture, 2-12 volt bulbs, transformer, and photo electric.
 > High Voltage Conversion Kit — kit easily secures to any gas lamp or electrical fixture. Kit includes: two bulb fixture, 2-15w bulbs, photo electric eye and detailed step-by-step instructions.
 
-**Copy status:** [Carolyn fills at checkpoint]
+**Copy status:** [Usable]
 
 ---
 
@@ -77,16 +77,16 @@ None found. All pages link only to the 10 known URLs above (plus `index.html` wh
 **Photos found:**
 | Image URL | File Size | Status |
 |-----------|-----------|--------|
-| `/images/lv_bulbs.gif` | 4,549 bytes | [Carolyn fills at checkpoint] |
-| `/images/15w_hv_bulbs.gif` | 3,015 bytes | [Carolyn fills at checkpoint] |
-| `/images/25w_hv_bulbs.gif` | 2,206 bytes | [Carolyn fills at checkpoint] |
+| `/images/lv_bulbs.gif` | 4,549 bytes | [usable] |
+| `/images/15w_hv_bulbs.gif` | 3,015 bytes | [usable] |
+| `/images/25w_hv_bulbs.gif` | 2,206 bytes | [usable] |
 
 **Copy excerpt:**
 > Pack of 12V low voltage frosted bulbs. (illumination equal to a 30 Watt light bulb)
 > High Voltage 15 Watt Bulbs — pack of 15 watt high voltage frosted bulbs.
 > Pack of 25 watt high voltage bulbs.
 
-**Copy status:** [Carolyn fills at checkpoint]
+**Copy status:** [Usable]
 
 ---
 
@@ -95,12 +95,12 @@ None found. All pages link only to the 10 known URLs above (plus `index.html` wh
 **Photos found:**
 | Image URL | File Size | Status |
 |-----------|-----------|--------|
-| `/images/gaslight_base.gif` | 4,575 bytes | [Carolyn fills at checkpoint] |
-| `/images/electric_eye01.gif` | 5,514 bytes | [Carolyn fills at checkpoint] |
-| `/images/transformer01.gif` | 4,196 bytes | [Carolyn fills at checkpoint] |
-| `/images/lv_fixture.gif` | 3,177 bytes | [Carolyn fills at checkpoint] |
-| `/images/lantern01.gif` | 3,025 bytes | [Carolyn fills at checkpoint] |
-| `/images/hv_fixture.gif` | 3,222 bytes | [Carolyn fills at checkpoint] |
+| `/images/gaslight_base.gif` | 4,575 bytes | [usable] |
+| `/images/electric_eye01.gif` | 5,514 bytes | [usable] |
+| `/images/transformer01.gif` | 4,196 bytes | [usable] |
+| `/images/lv_fixture.gif` | 3,177 bytes | [usable] |
+| `/images/lantern01.gif` | 3,025 bytes | [usable] |
+| `/images/hv_fixture.gif` | 3,222 bytes | [usable] |
 
 **Copy excerpt:**
 > Slides over any pole and turns your gaslight into an antique treasure. At dusk, off at dawn! This 2 wire photo electric eye mounts to any pole.
@@ -108,7 +108,7 @@ None found. All pages link only to the 10 known URLs above (plus `index.html` wh
 > Aluminum Lantern includes: 4 Glass Panes and Eagle Mount. (No internal)
 > High Voltage Inverted Bulb Fixture — inverted 2 bulb fixture mounts to any gas lamp or electrical fixture.
 
-**Copy status:** [Carolyn fills at checkpoint]
+**Copy status:** [Usable]
 
 ---
 
@@ -119,7 +119,7 @@ None found. All pages link only to the 10 known URLs above (plus `index.html` wh
 > For a copy of our installation instructions, please view our printable installation guides: HIGH VOLTAGE — 115 VOLT UNIT WITH PHOTO ELECTRIC. LOW VOLTAGE — WITH TRANSFORMER AND PHOTO ELECTRIC.
 > (Guides are Legal 8.5 x 14 BUT will print on Letter size)
 
-**Copy status:** [Carolyn fills at checkpoint]
+**Copy status:** [usable]
 
 ---
 
