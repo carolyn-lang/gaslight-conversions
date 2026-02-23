@@ -1,0 +1,23 @@
+# Gaslight Conversions — 301 Redirect Rules
+# Source truth: .planning/phases/01-foundation-and-content-audit/AUDIT.md
+# File location: public/_redirects (Astro copies to dist/ on build)
+# STATUS: Draft — goes live at DNS cutover (Phase 5), not before
+# Last updated: 2026-02-23
+
+# --- Product pages (all map to catalog until individual pages exist in Phase 3) ---
+/kits.html            /products           301
+/bulbs.html           /products           301
+/components.html      /products           301
+/mail_order.html      /products           301
+
+# --- Content pages ---
+/guide.html           /install-guides     301
+/faq.html             /faq                301
+/contact_us.html      /contact            301
+
+# --- Drop pages (no v1 equivalent — redirect to home as safe fallback) ---
+/sitemap.html         /                   301
+/benefits.html        /                   301
+
+# --- Home (belt-and-suspenders) ---
+/index.html           /                   301
