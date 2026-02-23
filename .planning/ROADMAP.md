@@ -29,7 +29,11 @@ Decimal phases appear between their surrounding integers in numeric order.
   2. Every URL on the current gaslightconversions.com site is inventoried in a crawl export, and a draft 301 redirect table maps old URLs to new URL structure
   3. Every product photo and written content block from the old site has been reviewed and marked as usable, needs-update, or must-be-replaced
   4. The domain registration status is confirmed and renewal date is documented (no surprise lapse during the rebuild)
-**Plans**: TBD
+**Plans**: 2 plans
+
+Plans:
+- [ ] 01-01-PLAN.md — Astro 5.x project scaffold + Netlify staging site connected to GitHub
+- [ ] 01-02-PLAN.md — URL crawl inventory, content quality audit, and draft _redirects file
 
 ### Phase 2: Design System
 **Goal**: A complete design foundation exists that every subsequent page and component can inherit without rework
@@ -83,7 +87,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation and Content Audit | 0/TBD | Not started | - |
+| 1. Foundation and Content Audit | 0/2 | Not started | - |
 | 2. Design System | 0/TBD | Not started | - |
 | 3. Product Catalog and Commerce | 0/TBD | Not started | - |
 | 4. Supporting Content Pages | 0/TBD | Not started | - |
