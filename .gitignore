@@ -3,6 +3,6 @@ dist/
 .env
 .env.*
 !.env.example
-.netlify/
+.netlify/*
 !.netlify/state.json
 node_modules

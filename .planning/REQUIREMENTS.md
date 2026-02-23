@@ -7,7 +7,7 @@
 
 ### Migration & Pre-Launch Prep
 
-- [ ] **MIGR-01**: Old site URLs are crawled and inventoried before any build work begins
+- [x] **MIGR-01**: Old site URLs are crawled and inventoried before any build work begins
 - [ ] **MIGR-02**: All old site URLs have 301 redirects configured to new URL structure before DNS cutover
 - [ ] **MIGR-03**: Existing product photos and copy are audited for quality before design begins
 
@@ -59,7 +59,7 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| MIGR-01 | Phase 1 | Pending |
+| MIGR-01 | Phase 1 | Complete |
 | MIGR-02 | Phase 1 | Pending |
 | MIGR-03 | Phase 1 | Pending |
 | PROD-01 | Phase 3 | Pending |
