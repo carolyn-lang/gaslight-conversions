@@ -62,21 +62,21 @@ Which phases cover which requirements. Updated during roadmap creation.
 | MIGR-01 | Phase 1 | Pending |
 | MIGR-02 | Phase 1 | Pending |
 | MIGR-03 | Phase 1 | Pending |
-| PROD-01 | TBD | Pending |
-| PROD-02 | TBD | Pending |
-| PROD-03 | TBD | Pending |
-| CONT-01 | TBD | Pending |
-| CONT-02 | TBD | Pending |
-| DSNG-01 | TBD | Pending |
-| DSNG-02 | TBD | Pending |
-| DSNG-03 | TBD | Pending |
-| DSNG-04 | TBD | Pending |
+| PROD-01 | Phase 3 | Pending |
+| PROD-02 | Phase 3 | Pending |
+| PROD-03 | Phase 3 | Pending |
+| CONT-01 | Phase 4 | Pending |
+| CONT-02 | Phase 4 | Pending |
+| DSNG-01 | Phase 2 | Pending |
+| DSNG-02 | Phase 2 | Pending |
+| DSNG-03 | Phase 3 | Pending |
+| DSNG-04 | Phase 5 | Pending |
 
 **Coverage:**
 - v1 requirements: 12 total
-- Mapped to phases: 3
-- Unmapped: 9 ⚠️
+- Mapped to phases: 12
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-02-23*
-*Last updated: 2026-02-23 after initial definition*
+*Last updated: 2026-02-23 after roadmap creation*
