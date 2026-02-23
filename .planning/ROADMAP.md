@@ -12,7 +12,7 @@ This roadmap rebuilds gaslightconversions.com on a modern static stack (Astro + 
 
 Decimal phases appear between their surrounding integers in numeric order.
 
-- [ ] **Phase 1: Foundation and Content Audit** - Staging environment up, old site crawled, all existing content inventoried before design begins
+- [x] **Phase 1: Foundation and Content Audit** - Staging environment up, old site crawled, all existing content inventoried before design begins (completed 2026-02-23)
 - [ ] **Phase 2: Design System** - Mid-century design tokens, base layout shell, and responsive grid that all subsequent pages inherit
 - [ ] **Phase 3: Product Catalog and Commerce** - Complete purchase funnel — catalog, product detail pages, PayPal buy buttons, optimized images
 - [ ] **Phase 4: Supporting Content Pages** - Installation guides, contact form, and all trust-building pages completing the site
@@ -87,7 +87,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation and Content Audit | 1/2 | In Progress|  |
+| 1. Foundation and Content Audit | 2/2 | Complete   | 2026-02-23 |
 | 2. Design System | 0/TBD | Not started | - |
 | 3. Product Catalog and Commerce | 0/TBD | Not started | - |
 | 4. Supporting Content Pages | 0/TBD | Not started | - |
